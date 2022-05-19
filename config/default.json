@@ -1,0 +1,30 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": 3000
+    },
+    "devices": [
+        {
+            "ip": "10.0.0.69",
+            "mac":"00:00:00:00:00:00",
+            "name": "?"
+        }
+    ],
+    "phone": {
+        "ip": "10.0.0.15",
+        "mac": "00:00:00:00:00:00",
+        "name": "OnePlus 8"
+    },
+    "fitbit": {
+        "heartrate": {
+            "59": "LavenderPurple",
+            "60": "Default",
+            "101": "PurplePink",
+            "150": "PinkRed"
+        }
+    },
+    "LIFXClient": {
+        "startDiscovery": false,
+        "debug": true
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Purple": "#926efa",
+    "Lavender": "#ba9be0",
+    "Pink": "#ed89c8",
+    "Red": "#f54e4e",
+    "LavenderPurple": [
+        "#ba9be0",
+        "#b696e3",
+        "#b191e6",
+        "#ad8ce9",
+        "#a887ec",
+        "#a482ee",
+        "#9f7df1",
+        "#9b78f4",
+        "#9673f7",
+        "#926efa"
+    ],
+    "PurplePink": [
+        "#926efa",
+        "#9c71f4",
+        "#a674ef",
+        "#b077e9",
+        "#ba7ae4",
+        "#c57dde",
+        "#cf80d9",
+        "#d983d3",
+        "#e386ce",
+        "#ed89c8"
+    ],
+    "PinkRed": [
+        "#ed89c8",
+        "#ee82ba",
+        "#ef7cad",
+        "#f0759f",
+        "#f16f92",
+        "#f16884",
+        "#f26277",
+        "#f35b69",
+        "#f4555c",
+        "#f54e4e"
+    ]
+}

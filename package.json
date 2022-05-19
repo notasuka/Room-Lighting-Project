@@ -1,0 +1,28 @@
+{
+  "name": "room-lighting-project",
+  "version": "1.0.0",
+  "description": "controls the lighting of my room based on heartrate, stress, and whether im going to sleep or sleeping",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc --build",
+    "start": "node dist/server.js"
+  },
+  "author": "Bradley Jeter",
+  "license": "ISC",
+  "dependencies": {
+    "@network-utils/arp-lookup": "^2.0.1",
+    "@types/node": "^17.0.24",
+    "chalk": "^4.1.2",
+    "config": "^3.3.7",
+    "lazy.js": "^0.5.1",
+    "lifx-lan-client": "^1.1.0",
+    "local-devices": "^3.0.0",
+    "lodash": "^4.17.21",
+    "ping": "^0.4.1",
+    "ws": "^8.5.0"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "typescript": "^4.6.3"
+  }
+}
